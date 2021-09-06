@@ -5,8 +5,6 @@ using TMPro;
 public class MostarPontuacaoFinal : MonoBehaviour
 {
     
-    
-
     // Start is called before the first frame update
     void Start()
     {
